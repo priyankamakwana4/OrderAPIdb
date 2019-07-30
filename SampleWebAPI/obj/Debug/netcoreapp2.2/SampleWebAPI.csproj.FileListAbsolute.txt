@@ -1,0 +1,14 @@
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.AssemblyInfoInputs.cache
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.AssemblyInfo.cs
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\bin\Debug\netcoreapp2.2\SampleWebAPI.deps.json
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\bin\Debug\netcoreapp2.2\SampleWebAPI.runtimeconfig.json
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\bin\Debug\netcoreapp2.2\SampleWebAPI.runtimeconfig.dev.json
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\bin\Debug\netcoreapp2.2\SampleWebAPI.dll
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.csprojAssemblyReference.cache
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.RazorAssemblyInfo.cache
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.RazorAssemblyInfo.cs
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\bin\Debug\netcoreapp2.2\SampleWebAPI.pdb
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.dll
+C:\Users\pmakwana\source\repos\SampleWebAPI\SampleWebAPI\obj\Debug\netcoreapp2.2\SampleWebAPI.pdb
