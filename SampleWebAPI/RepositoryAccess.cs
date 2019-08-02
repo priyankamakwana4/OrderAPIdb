@@ -12,8 +12,8 @@ namespace SampleWebAPI
         
         public RepositoryAccess()
         {
-            cluster = Cluster.Builder().AddContactPoint("127.0.0.1").Build();
-            session = cluster.Connect("orderdb");
+            cluster = Cluster.Builder().AddContactPoint("172.17.0.8").Build();
+            session = cluster.Connect("ghidrr");
         }
         public string PostOrder(Order orderobj)
         {
