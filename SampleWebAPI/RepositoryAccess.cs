@@ -12,7 +12,7 @@ namespace SampleWebAPI
         
         public RepositoryAccess()
         {
-            cluster = Cluster.Builder().WithCredentials("admin","admin").AddContactPoint("172.30.231.236").Build();
+            cluster = Cluster.Builder().WithCredentials("admin","admin").AddContactPoint("172.30.5.224").Build();
             session = cluster.Connect("orderdb");
         }
         public string PostOrder(Order orderobj)
