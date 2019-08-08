@@ -17,7 +17,9 @@ namespace SampleWebAPI
             //var config = new ConfigurationBuilder().AddEnvironmentVariables("").Build();
 
             //var url = config["ASPNETCORE_URLS"] ?? "http://*:8080";
-
+            
+            //CreateWebHostBuilder(args).UseUrls(url).Build().Run();
+            
             CreateWebHostBuilder(args).Build().Run();
         }
 
