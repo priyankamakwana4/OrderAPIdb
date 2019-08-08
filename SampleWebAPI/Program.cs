@@ -14,11 +14,11 @@ namespace SampleWebAPI
     {
         public static void Main(string[] args)
         {            
-            var config = new ConfigurationBuilder().AddEnvironmentVariables("").Build();
+            //var config = new ConfigurationBuilder().AddEnvironmentVariables("").Build();
 
-            var url = config["ASPNETCORE_URLS"] ?? "http://*:8080";
+            //var url = config["ASPNETCORE_URLS"] ?? "http://*:8080";
 
-            CreateWebHostBuilder(args).UseUrls(url).Build().Run();
+            CreateWebHostBuilder(args).Build().Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
